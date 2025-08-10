@@ -1,0 +1,8 @@
+{
+  "name": "Tốc ký âm thanh - Ver 6.1",
+  "description": "Nhận dạng giọng nói thành ký tự để tự động ghi chép tốc ký trong các cuộc họp, hội nghị, hội thảo, buổi làm việc, nói chuyện... Khi người nói giao tiếp bằng bất cứ ngôn ngữ nào, nội dung vẫn được ghi chép đầy đủ theo ngôn ngữ gốc và chuyển bản ghi chép đã trau chuốt sang Tiếng Việt.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
