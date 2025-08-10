@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
     Number(env.PORT) ||
     4173;
 
-  const allowedHosts = (process.env.ALLOWED_HOSTS || env.ALLOWED_HOSTS || 'tokyat.trolyai.io.vn')
+  const allowedHosts = (process.env.ALLOWED_HOSTS || env.ALLOWED_HOSTS || 'tockyat.trolyai.io.vn')
     .split(',')
     .map(h => h.trim())
     .filter(Boolean);
